@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component name="GridScreen" extends="Group"  initialFocus="RowList">
+    <script type="text/brightscript" uri="GridScreen.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    	<interface>
+        <!-- Specifies the content for the Grid -->
+        <field id="content" type="node" alias="RowList.content" />
+        <field id="rowItemSelected" type="intarray" alwaysnotify="true" alias="RowList.rowItemSelected" />
+        <field id="jumpToRowItem" type="intarray" alias="RowList.jumpToRowItem" />
+        <field id = "isButton" type = "node"/>
+    </interface>
+    <children>
+         <!-- Label with title and length of content -->
+        <Label
+	        id="titleLabel"
+	        width="1020"
+			translation="[130,170]"
+            font = "font:LargeBoldSystemFont"
+            
+	    />
+        <!-- Label with description of content.
+	         wrap="true" and numLines="3" means that the text can be broken into three lines -->
+        <Label
+	        id="descriptionLabel"
+	        wrap="true"
+	        width="1020"
+	        numLines="3"
+			translation="[130,220]"
+            font = "font:MediumBoldSystemFont"
+	    />
+        <RowList
+            itemComponentName="RowListItemComponent"
+            id="rowList"
+            translation="[80,350]"
+            numRows="3"
+            rowitemSize="[[320,180]]"
+            rowItemSpacing="[[20,0]]"
+            itemSize="[1100,270]"
+            rowLabelOffset="[[50,20]]"
+            focusXOffset="[50]"
+            showRowLabel="[true]"
+            rowFocusAnimationStyle="fixedFocusWrap"
+        />
+        <Button
+            id = "quiz"
+            translation = "[920,130]"
+            text = "Trivia"
+            textColor = "#FFFFFF"
+            minWidth = "120"
+            maxWidth="340"
+            />
+        <Button
+            id = "goBack"
+            translation = "[670,130]"
+            text = "Back"
+            visible = "false"
+            minWidth = "120"
+            maxWidth="340"
+        />
+        <Label
+            id="quizLabel"
+            width="800"
+            height="200"
+            translation="[200, 150]"
+            text="When was MESA day 2023?"
+            horizAlign="center"
+            vertAlign="center"
+            font="font:MediumBoldSystemFont"
+            visible = "false"
+            lineSpacing = "20"
+            wrap = "true"
+            />
+        <RadioButtonList id = "QuizTime" visible = "false" checkedItem = "-1" translation = "[200, 300]" checkOnSelect = "true" itemSize = "[700, 100]">
+
+            <ContentNode role = "content" >
+                <ContentNode id = "opt1" title = "March 4, 2023" />
+                <ContentNode id = "opt2" title = "February 28, 2023" />
+                <ContentNode id = "opt3" title = "March 31, 2023" />
+                <ContentNode id = "opt4" title = "April 2, 2023" />
+            </ContentNode>
+
+        </RadioButtonList>
+        <Label
+	        id="descriptionLabel"
+	        wrap="true"
+	        width="1020"
+	        numLines="3"
+			translation="[130,220]"
+            font = "font:MediumBoldSystemFont"
+            />
+    </children>
+</component>

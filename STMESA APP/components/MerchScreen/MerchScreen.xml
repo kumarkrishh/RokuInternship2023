@@ -1,0 +1,145 @@
+<component name="MerchScreen" extends="Group" initialFocus="poster1">
+    <script type="text/brightscript" uri="MerchScreen.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+
+    
+
+    <interface>
+        <!-- Content fields -->
+        <field id="content" type="node" />
+        <!-- @WriteOnly  -->
+        <!-- Manually focus on desired item. This field must be set after setting the content field. -->
+        <field id="jumpToItem" type="integer" onChange="OnJumpToItem" value="0" alwaysNotify="true" />
+        <!-- tells what item is currently focused  -->
+        <field id="itemFocused" type="integer" alwaysNotify="true" />     
+        <field id="buttonSelected" type="integer" alias="buttons.itemSelected" />
+    </interface>
+    <children>
+    <LayoutGroup
+        translation="[275, 154]"
+        layoutDirection="horiz"
+        horizAlignment="left"
+        itemSpacings="[40]">
+        <LayoutGroup
+            itemSpacings="[14, 10]"
+            layoutDirection="vert">
+            
+            <Poster
+                id="poster1"
+                width="357"
+                loadWidth="357"
+                height="201"
+                loadHeight="201"
+                loadDisplayMode="scaleToFit"
+                onClick="onPosterClick"
+                focusable="true"
+            />
+            <Label
+                id="label1"
+                width="357"
+                height="30"
+                translation="[0, 211]"
+                text="Poster Label 1"
+                horizAlign="center"
+                vertAlign="center"
+                font="font:MediumBoldSystemFont"
+            />
+
+            <Poster
+                id="poster2"
+                width="357"
+                loadWidth="357"
+                height="201"
+                loadHeight="201"
+                loadDisplayMode="scaleToFit"
+                onClick="onPosterClick"
+                focusable="true"
+            />
+            <Label
+                id="label2"
+                width="357"
+                height="30"
+                translation="[500, 211]"
+                text="Poster Label 2"
+                horizAlign="center"
+                vertAlign="center"
+                font="font:MediumBoldSystemFont"
+            />
+        </LayoutGroup>
+        <LayoutGroup
+            itemSpacings="[14, 10]"
+            layoutDirection="vert">
+            <Poster
+                id="poster3"
+                width="357"
+                loadWidth="357"
+                height="201"
+                loadHeight="201"
+                loadDisplayMode="scaleToFit"
+                onClick="onPosterClick"
+                focusable="true"
+            />
+            <Label
+                id="label3"
+                width="357"
+                height="30"
+                translation="[0, 211]"
+                text="Poster Label 1"
+                horizAlign="center"
+                vertAlign="center"
+                font="font:MediumBoldSystemFont"
+            />
+
+            <Poster
+                id="poster4"
+                width="357"
+                loadWidth="357"
+                height="201"
+                loadHeight="201"
+                loadDisplayMode="scaleToFit"
+                onClick="onPosterClick"
+                focusable="true"
+            />
+            <Label
+                id="label4"
+                width="357"
+                height="30"
+                translation="[500, 211]"
+                text="Poster Label 2"
+                horizAlign="center"
+                vertAlign="center"
+                font="font:MediumBoldSystemFont"
+            />
+        </LayoutGroup>
+    </LayoutGroup>
+    <LabelList
+        translation="[587,67]"
+        id="buttons"
+        numRows="3"
+        itemSpacing="[0,10]"
+        itemSize="[125, 48]"
+    />
+        <Poster
+    id = "QRposter"
+    translation = "[420,200]"
+    width = "500"
+    height = "500"
+    loadWidth = "500"
+    loadHeight = "500"
+    loadDisplayMode="scaleToFit"
+    focusable="true"
+    visible = "false"
+    />
+    <Label
+        id="qrLabel"
+        width="357"
+        height="30"
+        translation="[467, 150]"
+        text="Scan QR Code to Buy"
+        horizAlign="center"
+        vertAlign="center"
+        visible = "false"
+            />
+    </children>
+</component>
+

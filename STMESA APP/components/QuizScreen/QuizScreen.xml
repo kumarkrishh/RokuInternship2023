@@ -1,0 +1,26 @@
+<component name="QuizScreen" extends = "Group">
+    <script type="text/brightscript" uri="QuizScreen.brs"/>
+    <children>
+            <Label
+            id="quizLabel"
+            width="357"
+            height="30"
+            translation="[467, 150]"
+            text="Choose options"
+            horizAlign="center"
+            vertAlign="center"
+            font="font:MediumBoldSystemFont"
+            visible = "false"
+            />
+            <RadioButtonList id = "exampleRadioButtonList" visible = "false" checkedItem = "-1" translation = "[467, 200]">
+
+            <ContentNode role = "content" >
+                <ContentNode title = "Renderable Nodes" />
+                <ContentNode title = "Z-Order/Parent-Child" />
+                <ContentNode title = "Animations" />
+                <ContentNode title = "Events and Observers" />
+            </ContentNode>
+
+        </RadioButtonList>
+    </children>
+</component>
