@@ -37,7 +37,7 @@
 <h3 align="center">Join MESA App</h3>
 
   <p align="center">
-    This app is designed to spread access to STEM education through MESA (Mathematics, Engineering, Science Achievement) program to underrepresented students. 
+    This app is designed to help underrepresented student experience a hands-on STEM education through the MESA (Mathematics, Engineering, Science Achievement) program. 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
