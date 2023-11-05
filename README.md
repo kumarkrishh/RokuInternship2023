@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kumarkrishh/RokuInternship2023">
-    <img src="images/mesalogoapp.png" alt="Logo" width="80" height="80">
+    <img src="images/mesalogoapp.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">MESA APP</h3>
