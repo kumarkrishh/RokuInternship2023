@@ -34,10 +34,10 @@
     <img src="images/mesalogoapp.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">MESA APP</h3>
+<h3 align="center">Join MESA App</h3>
 
   <p align="center">
-    project_description
+    This app is designed to spread access to STEM education through MESA (Mathematics, Engineering, Science Achievement) program to underrepresented students. 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
