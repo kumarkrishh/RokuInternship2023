@@ -222,7 +222,7 @@ Project Link: [https://github.com/kumarkrishh/RokuInternship2023](https://github
 [license-url]: https://github.com/kumarkrishh/RokuInternship2023/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/homescreen.png
+[product-screenshot]: images/homepage.png
 [Roku]: https://img.shields.io/badge/Roku%20Scenegraph-purple?style=for-the-badge&logo=Roku
 [Roku-url]: https://developer.roku.com/docs/developer-program/getting-started/hello-world.md
 
