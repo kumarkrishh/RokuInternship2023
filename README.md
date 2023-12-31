@@ -35,7 +35,7 @@
 <h3 align="center">Join MESA App</h3>
 
   <p align="center">
-    This Roku TV app is designed to help underrepresented student experience a hands-on STEM education through the MESA (Mathematics, Engineering, Science Achievement) program. 
+    This Roku TV app is designed for underrepresented students to experience a hands-on STEM education through participating in the MESA (Mathematics, Engineering, Science Achievement) program. 
     <br />
     <a href="https://github.com/kumarkrishh/RokuInternship2023"><strong>Explore the docs »</strong></a>
     <br />
