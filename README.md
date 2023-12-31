@@ -94,8 +94,8 @@
 
 ### Built With
 
-* [![Roku][Roku]][Roku-url] Framework
-* BrightScript Scripting Language
+* [![Roku][Roku]][Roku-url]
+* [BrightScript Scripting Language](https://developer.roku.com/docs/references/brightscript/language/brightscript-language-reference.md)
 
 
 
