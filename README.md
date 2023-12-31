@@ -108,8 +108,12 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1. Make sure you have a Roku Device and have successfully put your device on [Developer Mode](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/kumarkrishh/RokuInternship2023.git
+   ```
+3. Follow the instructions to [install your channel (sideload) on your Roku Device](https://developer.roku.com/docs/developer-program/getting-started/developer-setup.md)
 
 ### Prerequisites
 
