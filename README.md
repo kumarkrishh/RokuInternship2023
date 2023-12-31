@@ -79,7 +79,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+    <img src="images/homepage.png" alt="Logo" width="488" height="300">
+  <img src="images/videoscreen.png" alt="Logo" width="488" height="300">
+  <img src="images/shopscreen.png" alt="Logo" width="488" height="300">
+  <img src="images/purchaseScreen.png" alt="Logo" width="488" height="300">
+  <img src="images/gamescreen.png" alt="Logo" width="488" height="300">
+  
+</div>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -220,7 +227,6 @@ Project Link: [https://github.com/kumarkrishh/RokuInternship2023](https://github
 [license-url]: https://github.com/kumarkrishh/RokuInternship2023/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/homepage.png
 [Roku]: https://img.shields.io/badge/Roku%20Scenegraph-purple?style=for-the-badge&logo=Roku
 [Roku-url]: https://developer.roku.com/docs/developer-program/getting-started/hello-world.md
 
