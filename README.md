@@ -33,17 +33,7 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<div align="center">
-    <img src="images/homepage.png" alt="Logo" width="488" height="300">
-  <img src="images/videoscreen.png" alt="Logo" width="488" height="300">
-  <img src="images/shopscreen.png" alt="Logo" width="488" height="300">
-  <img src="images/purchaseScreen.png" alt="Logo" width="488" height="300">
-  <img src="images/gamescreen.png" alt="Logo" width="488" height="300">
-  
-</div>
 
 The MESA Fundraising and Promotion App was developed as part of an internship with Roku, with the goal of supporting the MESA program's fundraising and promotional efforts. MESA operates on a tight budget, collecting only $10 per year from each member, with financial assistance available for those who qualify. As a result, additional fundraising is essential to ensure that MESA can continue to offer the high-quality events, competitions, and projects that are critical to student success.
 
@@ -57,6 +47,35 @@ The MESA Fundraising and Promotion App was developed as part of an internship wi
 ### Why It Matters
 
 MESA is more than just a program—it's a gateway to opportunity for students from underrepresented backgrounds. By supporting MESA through this app, we help sustain a vital resource that levels the playing field, providing critical educational opportunities and pathways to STEM careers. Every purchase, every event, and every bit of feedback helps make a difference in the lives of these students.
+
+### Screenshots
+
+<div align="center">
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="images/homepage.png" alt="Homepage" width="488" height="300">
+    <figcaption>Homepage: The central hub for all MESA activities, events, and updates.</figcaption>
+  </figure>
+  
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="images/videoscreen.png" alt="Video Screen" width="488" height="300">
+    <figcaption>Video Screen: Promotional and educational videos to engage students and parents.</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="images/shopscreen.png" alt="Shop Screen" width="488" height="300">
+    <figcaption>Shop Screen: A platform for purchasing MESA merchandise to support fundraising efforts.</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="images/purchaseScreen.png" alt="Purchase Screen" width="488" height="300">
+    <figcaption>Purchase Screen: Seamless and secure purchasing process for MESA merch.</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 10px;">
+    <img src="images/gamescreen.png" alt="Game Screen" width="488" height="300">
+    <figcaption>Game Screen: Interactive content to engage students in a fun and educational way.</figcaption>
+  </figure>
+</div>
 
 
 
