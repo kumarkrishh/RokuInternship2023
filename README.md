@@ -49,7 +49,7 @@ The MESA Fundraising and Promotion App was developed as part of an internship wi
 
 MESA is more than just a program—it's a gateway to opportunity for students from underrepresented backgrounds. By supporting MESA through this app, we help sustain a vital resource that levels the playing field, providing critical educational opportunities and pathways to STEM careers. Every purchase, every event, and every bit of feedback helps make a difference in the lives of these students.
 
-### Screenshots
+### App Interface and Features
 
 <div align="center">
   <img src="images/homepage.png" alt="Homepage" width="488" height="300">
