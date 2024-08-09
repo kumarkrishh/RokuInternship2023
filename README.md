@@ -33,6 +33,21 @@
   </p>
 </div>
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/kumarkrishh/RokuInternship2023">
+    <img src="images/mesalogoapp.png" alt="Logo" width="200" height="200">
+  </a>
+
+<h3 align="center">Join MESA App</h3>
+
+  <p align="center" style="font-size: 1.2em;">
+    <strong>This Roku TV app is designed for underrepresented students to experience a hands-on STEM education through participating in the MESA (Mathematics, Engineering, Science Achievement) program.</strong>
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 The MESA Fundraising and Promotion App was developed as part of an internship with Roku, with the goal of supporting the MESA program's fundraising and promotional efforts. MESA operates on a tight budget, collecting only $10 per year from each member, with financial assistance available for those who qualify. As a result, additional fundraising is essential to ensure that MESA can continue to offer the high-quality events, competitions, and projects that are critical to student success.
@@ -74,8 +89,6 @@ MESA is more than just a program—it's a gateway to opportunity for students fr
   <img src="images/gamescreen.png" alt="Game Screen" width="488" height="300">
   <p>Game Screen: Interactive content to engage students in a fun and educational way.</p>
 </div>
-
-
 
 ### Built With
 
