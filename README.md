@@ -45,6 +45,20 @@
   
 </div>
 
+The MESA Fundraising and Promotion App was developed as part of an internship with Roku, with the goal of supporting the MESA program's fundraising and promotional efforts. MESA operates on a tight budget, collecting only $10 per year from each member, with financial assistance available for those who qualify. As a result, additional fundraising is essential to ensure that MESA can continue to offer the high-quality events, competitions, and projects that are critical to student success.
+
+### Key Features
+
+- **Fundraising Integration**: The app provides a platform for organizing and promoting fundraising activities, including merchandise sales and events, to help MESA secure the necessary funds to support its mission.
+- **Event Updates**: Regular updates about MESA clubs, competitions, and events keep students and parents informed and engaged.
+- **Community Connection**: The app fosters a sense of community among MESA clubs, encouraging collaboration and mutual support even as they compete in national competitions.
+- **Feedback and Continuous Improvement**: We value the input of our users. Students can offer feedback directly through the app, which will be used to refine and enhance the app, ensuring it meets and exceeds their needs.
+
+### Why It Matters
+
+MESA is more than just a program—it's a gateway to opportunity for students from underrepresented backgrounds. By supporting MESA through this app, we help sustain a vital resource that levels the playing field, providing critical educational opportunities and pathways to STEM careers. Every purchase, every event, and every bit of feedback helps make a difference in the lives of these students.
+
+
 
 
 
