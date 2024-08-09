@@ -18,12 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -36,13 +30,6 @@
 
   <p align="center">
     This Roku TV app is designed for underrepresented students to experience a hands-on STEM education through participating in the MESA (Mathematics, Engineering, Science Achievement) program. 
-    <br />
-    <a href="https://github.com/kumarkrishh/RokuInternship2023"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/kumarkrishh/RokuInternship2023/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/kumarkrishh/RokuInternship2023/issues">Request Feature</a>
   </p>
 </div>
 
