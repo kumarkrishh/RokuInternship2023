@@ -28,20 +28,6 @@
 
 <h3 align="center">Join MESA App</h3>
 
-  <p align="center">
-    This Roku TV app is designed for underrepresented students to experience a hands-on STEM education through participating in the MESA (Mathematics, Engineering, Science Achievement) program. 
-  </p>
-</div>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/kumarkrishh/RokuInternship2023">
-    <img src="images/mesalogoapp.png" alt="Logo" width="200" height="200">
-  </a>
-
-<h3 align="center">Join MESA App</h3>
-
   <p align="center" style="font-size: 1.2em;">
     <strong>This Roku TV app is designed for underrepresented students to experience a hands-on STEM education through participating in the MESA (Mathematics, Engineering, Science Achievement) program.</strong>
   </p>
